@@ -6,6 +6,6 @@
             "name": "Download and Run",
             "type": "ev3devBrowser",
             "request": "launch",
-            "program": "/home/robot/${workspaceRootFolderName}/medium-motor-test.py"
+            "program": "/home/robot/${workspaceRootFolderName}/ir-sensor-test.py"
         }
     ]
